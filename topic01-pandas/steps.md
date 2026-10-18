@@ -2,11 +2,11 @@
 
 ## Steps
 
-- [ ] **Read** — [Topic 1 article](https://mlcourse.ai/book/topic01/topic01_pandas_data_analysis.html)
+- [x] **Read** — [Topic 1 article](https://mlcourse.ai/book/topic01/topic01_pandas_data_analysis.html)
   - Overview of exploratory data analysis with Pandas
   - UCI Adult dataset introduction
-- [ ] **Watch** — [Video lecture](https://youtu.be/fwWCw_cE5aI)
-- [ ] **Code** — [Kaggle Notebook: Topic 1 EDA with Pandas](https://www.kaggle.com/kashnitsky/topic-1-exploratory-data-analysis-with-pandas)
+- [x] **Watch** — [Video lecture](https://youtu.be/fwWCw_cE5aI)
+- [x] **Code** — [Kaggle Notebook: Topic 1 EDA with Pandas](https://www.kaggle.com/kashnitsky/topic-1-exploratory-data-analysis-with-pandas)
   - Load and inspect the UCI Adult dataset
   - Basic statistics, missing values, distributions
 - [ ] **Assignment** — [Demo Assignment 1](https://mlcourse.ai/book/topic01/assignment01.html)
