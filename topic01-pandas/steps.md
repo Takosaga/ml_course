@@ -13,7 +13,7 @@
   - [nbviewer link](https://nbviewer.jupyter.org/github/Yorko/mlcourse.ai/blob/main/jupyter_english/assignments_demo/assignment01_pandas_uci_adult.ipynb?flush_cache=true)
   - [Kaggle Notebook](https://www.kaggle.com/kashnitsky/assignment-1-pandas-and-uci-adult-dataset)
 - [ ] **Solution** — [Solution Kaggle Notebook](https://www.kaggle.com/kashnitsky/a1-demo-pandas-and-uci-adult-dataset-solution)
-Checked agaisnt solution and only needed to change 1
+Checked agaisnt solution and to change 2 solutions
 ## Materials
 
 Datasets are in the `materials/` folder:
