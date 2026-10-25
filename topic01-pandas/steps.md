@@ -9,11 +9,11 @@
 - [x] **Code** — [Kaggle Notebook: Topic 1 EDA with Pandas](https://www.kaggle.com/kashnitsky/topic-1-exploratory-data-analysis-with-pandas)
   - Load and inspect the UCI Adult dataset
   - Basic statistics, missing values, distributions
-- [ ] **Assignment** — [Demo Assignment 1](https://mlcourse.ai/book/topic01/assignment01.html)
+- [x] **Assignment** — [Demo Assignment 1](https://mlcourse.ai/book/topic01/assignment01.html)
   - [nbviewer link](https://nbviewer.jupyter.org/github/Yorko/mlcourse.ai/blob/main/jupyter_english/assignments_demo/assignment01_pandas_uci_adult.ipynb?flush_cache=true)
   - [Kaggle Notebook](https://www.kaggle.com/kashnitsky/assignment-1-pandas-and-uci-adult-dataset)
 - [ ] **Solution** — [Solution Kaggle Notebook](https://www.kaggle.com/kashnitsky/a1-demo-pandas-and-uci-adult-dataset-solution)
-
+Checked agaisnt solution and only needed to change 1
 ## Materials
 
 Datasets are in the `materials/` folder:
